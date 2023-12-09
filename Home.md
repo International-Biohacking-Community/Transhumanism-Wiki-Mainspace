@@ -16,14 +16,15 @@ The Transhumanism Wiki is a resource for transhumanism but if free of use to any
 ## Useful Resources
 
 [[Pages/Transhumanism Recources\|Transhumanism Recources]]
+**Contribute:** [[README]]
 
 ---
 
 ## Contribute to The Transhumanism Wiki
 
-[[Contribute-old|Contribute]]
+**HOW TO CONTRIBUTE =>** [[README]]
 
-We're currently looking for contributors; if you are interested please send an email to [spacetimebull@protonmail.com](mailto:spacetimebull@protonmail.com)
+We're currently looking for repo contributors; if you are interested please send an email to contact@biohackinginternational.com
 
 ---
 
